@@ -10,10 +10,10 @@
 ```bash
 $ cat about.txt
 ```
-- 🔐 Lagi belajar cybersecurity, langsung praktik di terminal
-- 🤖 Eksplor vibecoding: bangun ide bareng AI
-- 🌱 Belajar sambil dokumentasi, semua proses ada di repo
-- 📍 Bogor ↔ Jakarta
+- 🔐 lagi belajar di terminal
+- 🤖 ngoding tipis ngerti dikit dikit
+- 🌱 belajar dikit demi sedikit
+- 📍 Bogor - Jakarta
 
 ```bash
 $ ls skills/
