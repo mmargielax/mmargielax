@@ -1,0 +1,34 @@
+<h1 align="center">Hi, I'm Tommy 👋</h1>
+
+<p align="center">
+  <code>root@mmargielax:~# whoami</code><br>
+  <b>Cybersecurity learner • Vibecoder • Bogor ↔ Jakarta 🇮🇩</b>
+</p>
+
+---
+
+```bash
+$ cat about.txt
+```
+- 🔐 Lagi belajar cybersecurity, langsung praktik di terminal
+- 🤖 Eksplor vibecoding: bangun ide bareng AI
+- 🌱 Belajar sambil dokumentasi, semua proses ada di repo
+- 📍 Bogor ↔ Jakarta
+
+```bash
+$ ls skills/
+```
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Termux](https://img.shields.io/badge/-Termux-000?style=for-the-badge&logo=termux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+
+```bash
+$ cat /etc/motto
+```
+> "Learn it. Break it (legally). Secure it."
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmargielax&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmargielax&theme=dark&hide_border=true" height="150"/>
+</p>
