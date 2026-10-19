@@ -2,7 +2,7 @@
 
 <p align="center">
   <code>root@mmargielax:~# whoami</code><br>
-  <b>Cybersecurity learner • Vibecoder • Bogor ↔ Jakarta 🇮🇩</b>
+  <b>Cybersecurity learner • Coder • Bogor - Jakarta 🇮🇩</b>
 </p>
 
 ---
@@ -10,9 +10,6 @@
 ```bash
 $ cat about.txt
 ```
-- 🔐 lagi belajar di terminal
-- 🤖 ngoding tipis ngerti dikit dikit
-- 🌱 belajar dikit demi sedikit
 - 📍 Bogor - Jakarta
 
 ```bash
@@ -26,7 +23,7 @@ $ ls skills/
 ```bash
 $ cat /etc/motto
 ```
-> "Learn it. Break it (legally). Secure it."
+> "Learn it."
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmargielax&show_icons=true&theme=dark&hide_border=true" height="150"/>
