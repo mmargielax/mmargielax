@@ -10,7 +10,7 @@
 ```bash
 $ cat about.txt
 ```
-- 📍 Bogor - Jakarta
+- 📍 Bogor - Indonesia
 
 ```bash
 $ ls skills/
