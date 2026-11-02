@@ -2,7 +2,7 @@
 
 <p align="center">
   <code>root@mmargielax:~# whoami</code><br>
-  <b>Cybersecurity learner • Coder • Bogor - Jakarta 🇮🇩</b>
+  <b>Cybersecurity learner • Coder • Bogor - Indonesia 🇮🇩</b>
 </p>
 
 ---
