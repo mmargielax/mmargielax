@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Tommy 👋</h1>
+<h1 align="center">Hi, I'm Tommy</h1>
 
 <p align="center">
   <code>root@mmargielax:~# whoami</code><br>
-  <b>Cybersecurity learner • Vibecoder • Bogor ↔ Jakarta 🇮🇩</b>
+  <b>Cybersecurity learner - Bogor - Indonesia</b>
 </p>
 
 ---
@@ -10,10 +10,7 @@
 ```bash
 $ cat about.txt
 ```
-- 🔐 Lagi belajar cybersecurity, langsung praktik di terminal
-- 🤖 Eksplor vibecoding: bangun ide bareng AI
-- 🌱 Belajar sambil dokumentasi, semua proses ada di repo
-- 📍 Bogor ↔ Jakarta
+- 📍 Bogor - Indonesia
 
 ```bash
 $ ls skills/
@@ -26,7 +23,7 @@ $ ls skills/
 ```bash
 $ cat /etc/motto
 ```
-> "Learn it. Break it (legally). Secure it."
+> "learn"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmargielax&show_icons=true&theme=dark&hide_border=true" height="150"/>
